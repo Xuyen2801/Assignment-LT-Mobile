@@ -1,0 +1,7 @@
+{
+    "users": [
+      { "id": 1, "name": "Demo User", "email": "demo@bookstore.vn", "password": "123456" }
+    ],
+    "books": [],
+    "reviews": []
+  }
